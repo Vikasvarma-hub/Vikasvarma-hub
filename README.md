@@ -38,7 +38,7 @@ I'm also interested in indie projects and love experimenting with small ideas th
 
 **Vikas Varma**  
 [GitHub](https://github.com/Vikasvarma-hub)  
-[LinkedIn](https://linkedin.com/in/your-linkedin-id)  
+[LinkedIn](https://linkedin.com/in/vikasvarma007)  
 [Instagram](https://instagram.com/your-insta-username)  
 [YouTube](https://youtube.com/@your-channel-id)
 
