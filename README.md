@@ -1,4 +1,4 @@
-# 💻 Personal Portfolio – Vikas Varma
+# Personal Portfolio – Vikas Varma
 
 Hi! I'm Vikas Varma, a second-year BTech student at Gokaraju Rangaraju Institute of Engineering and Technology, Telangana. I'm passionate about building clean, user-friendly web applications and working on indie projects that solve real problems.
 
@@ -6,7 +6,7 @@ This portfolio showcases my journey as a **web developer** and **software engine
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Clean, responsive design (mobile-first)
 - About Me section with background and goals
@@ -16,7 +16,7 @@ This portfolio showcases my journey as a **web developer** and **software engine
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **HTML5**
 - **CSS3**
@@ -25,6 +25,23 @@ This portfolio showcases my journey as a **web developer** and **software engine
 - **java**
 
 ---
+
+## About Me
+
+I'm Vikas Varma, a second-year BTech student at GRIET, Telangana. I'm not an expert yet — I'm still learning every day. This portfolio is part of my journey to improve my skills, document what I learn, and gradually build better and more useful websites.
+
+I'm also interested in indie projects and love experimenting with small ideas that could turn into something big.
+
+---
+
+## Author
+
+**Vikas Varma**  
+[GitHub](https://github.com/vikasvarma)  
+[LinkedIn](https://linkedin.com/in/your-linkedin-id)  
+[Instagram](https://instagram.com/your-insta-username)  
+[YouTube](https://youtube.com/@your-channel-id)
+
 
 
 
