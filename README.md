@@ -40,7 +40,7 @@ I'm also interested in indie projects and love experimenting with small ideas th
 [GitHub](https://github.com/Vikasvarma-hub)  
 [LinkedIn](https://linkedin.com/in/vikasvarma007)  
 [Instagram](https://instagram.com/the_codedrip)  
-[YouTube](https://youtube.com/@your-channel-id)
+[YouTube](https://youtube.com/@the_codedrip?si=MHD8B0vJkUQsXWsk)
 
 
 
